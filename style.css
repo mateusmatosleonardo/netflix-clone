@@ -23,6 +23,7 @@ header{
 
 .header{
     background: #141414;
+    z-index: 9999;
 }
 
 .header--logo{
