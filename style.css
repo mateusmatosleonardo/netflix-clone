@@ -8,8 +8,30 @@ body{
     background-color: #222;
 }
 
+header{
+    width: 100%;
+    position: fixed;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    top: 0;
+    left: 0;
+    justify-content: space-between;
+    padding: 0 30px;
+    background: transparent;
+}
 
+.header{
+    background: #141414;
+}
 
+.header--logo{
+    height: 30px;
+}
+
+.header--logo img{
+    height: 100%;
+}
 
 
 
